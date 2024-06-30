@@ -1,5 +1,37 @@
 .page{
     box-sizing: border-box;
+    /* width: 700px; */
+    /* margin-left: 200px; */
+    margin: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #EBF5FB;
+    text-align: center;
 }
 
+.introduction, 
+.how-to,
+.ingredient,
+.steps{
+    background-color: #E8DAEF;
+    margin: 10px 20px;
+    padding: 5px;
+    border-style: dashed;
+}
 
+.introduction{
+   
+}
+
+.how-to{
+    
+}
+
+.ingredient{
+    text-align: left;
+    
+}
+
+.steps{
+    text-align: left;
+    
+}
